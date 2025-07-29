@@ -1,0 +1,46 @@
+
+
+html{
+    background-color: black;
+    height: 100%;
+    width: 500px;
+}
+
+body{
+    width: 100%;
+    background-color: white;
+    margin: 0;
+}
+
+.header_part {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;  
+}
+
+.header_part > i{
+    font-size: 40px;
+}
+.top_text {
+    font-family: Roboto;
+    width: 100%;     
+}
+
+.all_icons{
+    display: flex;
+}
+
+.three_icons {
+    width: 100%;
+    display: flex;
+}
+
+p {
+    font-family: Roboto;
+    margin: 0;
+}
+
+
+
+
